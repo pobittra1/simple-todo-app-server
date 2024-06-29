@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "title": "Buy groceries",
+    "status": "pending",
+    "priority": "high",
+    "description": "Need to buy milk, eggs, and bread.",
+    "dateTime": "2024-06-30T10:00:00Z"
+  },
+  {
+    "id": 2,
+    "title": "Read a book",
+    "status": "finished",
+    "priority": "medium",
+    "description": "Finish reading 'The Great Gatsby'.",
+    "dateTime": "2024-06-28T15:00:00Z"
+  },
+  {
+    "id": 3,
+    "title": "Workout at the gym",
+    "status": "pending",
+    "priority": "high",
+    "description": "Leg day workout.",
+    "dateTime": "2024-06-29T18:00:00Z"
+  },
+  {
+    "id": 4,
+    "title": "Finish project report",
+    "status": "finished",
+    "priority": "low",
+    "description": "Complete the final draft of the project report.",
+    "dateTime": "2024-06-27T22:00:00Z"
+  },
+  {
+    "id": 5,
+    "title": "Call the electrician",
+    "status": "pending",
+    "priority": "medium",
+    "description": "Schedule an appointment to fix the kitchen lights.",
+    "dateTime": "2024-06-29T09:00:00Z"
+  },
+  {
+    "id": 6,
+    "title": "Prepare presentation",
+    "status": "pending",
+    "priority": "high",
+    "description": "Create slides for the upcoming meeting.",
+    "dateTime": "2024-07-01T14:00:00Z"
+  },
+  {
+    "id": 7,
+    "title": "Visit the dentist",
+    "status": "finished",
+    "priority": "low",
+    "description": "Regular dental check-up.",
+    "dateTime": "2024-06-25T11:00:00Z"
+  },
+  {
+    "id": 8,
+    "title": "Clean the house",
+    "status": "pending",
+    "priority": "medium",
+    "description": "Vacuum, dust, and mop all rooms.",
+    "dateTime": "2024-06-29T16:00:00Z"
+  },
+  {
+    "id": 9,
+    "title": "Reply to emails",
+    "status": "finished",
+    "priority": "low",
+    "description": "Respond to all pending work emails.",
+    "dateTime": "2024-06-26T13:00:00Z"
+  },
+  {
+    "id": 10,
+    "title": "Plan weekend trip",
+    "status": "pending",
+    "priority": "high",
+    "description": "Decide on destination and book accommodations.",
+    "dateTime": "2024-06-30T20:00:00Z"
+  }
+]
